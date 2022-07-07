@@ -5,7 +5,16 @@
  这是展开后的内容。
 </details>
 <img src="http://tva3.sinaimg.cn/large/de80a5ably1h08jml7065g205k065q4e.gif" width="300" height="300">
-
+<table border="1">
+<tr>
+<td>row 1, cell 1</td>
+<td>row 1, cell 2</td>
+</tr>
+<tr>
+<td>row 2, cell 1</td>
+<td>row 2, cell 2</td>
+</tr>
+</table>
 <!--
 **1328552867/1328552867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
