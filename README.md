@@ -1,10 +1,4 @@
 ### Hi there 👋
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=1328552867&theme=dark&layout=compact)
-<details>
- <summary>展开查看内容</summary>
- 这是展开后的内容。
-</details>
-
 <table border="1">
 <tr>
 <td><img src= "http://tva3.sinaimg.cn/large/006BdrJkgy1gtapoqhskxg3034034q49.gif" width="200" height="200"></td>
