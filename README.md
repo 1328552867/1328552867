@@ -1,5 +1,5 @@
 ### Hi there 👋
-<table border="1">
+<table border="0">
 <tr>
 <td><img src= "http://tva3.sinaimg.cn/large/006BdrJkgy1gtapoqhskxg3034034q49.gif" width="200" height="200"></td>
 <td><img src= "http://tva3.sinaimg.cn/large/006BdrJkgy1gtapoqtrifg30340340t0.gif" width="200" height="200"></td>
