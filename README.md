@@ -16,6 +16,20 @@
 <td><img src="http://tva3.sinaimg.cn/large/006BdrJkgy1gtapp4hbwag3034034mxo.gif" width="100" height="100"></td>
 </tr>
 </table>
+
+<!-- https://cdn.jsdelivr.net/npm/sakana-widget@2.2.2/lib/sakana.min.js -->
+<!-- https://cdnjs.cloudflare.com/ajax/libs/sakana-widget/2.2.2/sakana.min.js -->
+<div id="sakana-widget"></div>
+<script>
+  function initSakanaWidget() {
+    new SakanaWidget().mount('#sakana-widget');
+  }
+</script>
+<script
+  async
+  onload="initSakanaWidget()"
+  src="https://cdn.jsdelivr.net/npm/sakana-widget@2.2.2/lib/sakana.min.js"
+></script>
 <!--
 **1328552867/1328552867** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
